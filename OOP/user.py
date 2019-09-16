@@ -111,7 +111,6 @@ while True:
            User(id,ten,phone).save()
         if y=="1":
             Customer(id,ten,phone).save()
-# def check():
     if x.upper()=="S":
         y=input("Ban muon tao user(nhap 0) hay customer(nhap 1):")
         id=input("Nhap id  cua ban:")
